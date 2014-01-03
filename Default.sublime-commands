@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Toggle Fold Comments",
+        "command": "toggle_fold_comments"
+    }
+]
